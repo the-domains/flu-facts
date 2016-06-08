@@ -1,0 +1,14 @@
+layout_spectrum: 0.8254887238144875
+typography_spectrum: 0.735035692108795
+color:
+  brandStrength: 0.8383365490008146
+  lightness: 0.34854139923118055
+  saturation: 0.42955053108744323
+  rhythmicContrast: 0.8854777712840587
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Flu Facts
