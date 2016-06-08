@@ -6,9 +6,9 @@ color:
   saturation: 0.42955053108744323
   rhythmicContrast: 0.8854777712840587
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
 name: Flu Facts
